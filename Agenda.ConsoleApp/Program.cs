@@ -72,7 +72,7 @@ namespace Agenda.ConsoleApp
             }
             catch (Exception ex)
             {
-                Console.WriteLine(string.Format("Ocorreu um erro durante a incialização! M_otivo: {0}", ex.Message));
+                Console.WriteLine(string.Format("Ocorreu um erro durante a incialização! Motivo: {0}", ex.Message));
             }
         }
 
