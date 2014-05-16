@@ -1,0 +1,15 @@
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Debug\Agenda.Dominio.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Debug\Agenda.Dominio.pdb
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Debug\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Debug\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Debug\Agenda.Dominio.csprojResolveAssemblyReference.cache
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Dominio\bin\Debug\Agenda.Dominio.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Dominio\bin\Debug\Agenda.Dominio.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Dominio\obj\Debug\Agenda.Dominio.csprojResolveAssemblyReference.cache
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Dominio\obj\Debug\Agenda.Dominio.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Dominio\obj\Debug\Agenda.Dominio.pdb

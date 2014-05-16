@@ -1,0 +1,67 @@
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Web.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Web.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Repositorio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\FluentNHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Iesi.Collections.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\MySql.Data.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Newtonsoft.Json.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\NHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\NHibernate.Linq.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Agenda.Repositorio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\FluentNHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Iesi.Collections.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\Newtonsoft.Json.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\NHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\NHibernate.Linq.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.csprojResolveAssemblyReference.cache
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\App.Utilities.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Web\bin\App.Utilities.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Web.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Web.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Dominio.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Repositorio.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\App.Utilities.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\FluentNHibernate.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Iesi.Collections.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\MySql.Data.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Newtonsoft.Json.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\NHibernate.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\NHibernate.Linq.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Dominio.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Agenda.Repositorio.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\App.Utilities.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\FluentNHibernate.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Iesi.Collections.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\Newtonsoft.Json.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\NHibernate.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\bin\NHibernate.Linq.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.csprojResolveAssemblyReference.cache
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.Web\obj\Debug\Agenda.Web.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Web.dll.config
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Web.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Web.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Dominio.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Repositorio.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\App.Utilities.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\FluentNHibernate.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Iesi.Collections.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\MySql.Data.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Newtonsoft.Json.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\NHibernate.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\NHibernate.Linq.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Dominio.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Agenda.Repositorio.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\App.Utilities.pdb
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\FluentNHibernate.xml
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Iesi.Collections.xml
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\Newtonsoft.Json.xml
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\NHibernate.xml
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\bin\NHibernate.Linq.xml
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\obj\Debug\Agenda.Web.csprojResolveAssemblyReference.cache
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\obj\Debug\Agenda.Web.dll
+D:\Pessoal\Pós-Graduação\Apresentação\Agenda\Agenda.Web\obj\Debug\Agenda.Web.pdb

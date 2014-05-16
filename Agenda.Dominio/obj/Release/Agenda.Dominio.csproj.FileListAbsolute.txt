@@ -1,0 +1,5 @@
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Release\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\bin\Release\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Release\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Release\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Dominio\obj\Release\Agenda.Dominio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Agenda.Repositorio.dll.config
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Agenda.Repositorio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Agenda.Repositorio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\FluentNHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Iesi.Collections.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\NHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\NHibernate.Linq.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\FluentNHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\Iesi.Collections.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\NHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\bin\Release\NHibernate.Linq.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\obj\Release\Agenda.Repositorio.csprojResolveAssemblyReference.cache
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\obj\Release\Agenda.Repositorio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Repositorio\obj\Release\Agenda.Repositorio.pdb

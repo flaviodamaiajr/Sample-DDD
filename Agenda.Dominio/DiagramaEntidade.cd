@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Agenda.Dominio.Entidade.PessoaEndereco">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAECEAAAAAACAAGAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidade\PessoaEndereco.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pessoa" />
+      <Property Name="PseTipoEndereco" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Agenda.Dominio.Entidade.Pessoa">
+    <Position X="3.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEEAAABAEAAAEAwIAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidade\Pessoa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PsaGenero" />
+      <Property Name="PsaRelacionamento" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Agenda.Dominio.Entidade.PessoaContato">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <AssociationLine Name="PscTipoTelefone" Type="Agenda.Dominio.ObjetoDeValor.TipoContato">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.12" Y="0.435" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="PscTipoEmail" Type="Agenda.Dominio.ObjetoDeValor.TipoContato">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.102" Y="0.088" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAEAABAAAAEAAAAAAAAAAEAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidade\PessoaContato.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PscTipoTelefone" />
+      <Property Name="PscTipoEmail" />
+      <Property Name="Pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="Agenda.Dominio.ObjetoDeValor.TipoContato">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQCAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAgAAAA=</HashCode>
+      <FileName>ObjetoDeValor\TipoContato.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Agenda.Dominio.ObjetoDeValor.TipoEndereco">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjetoDeValor\EnderecoEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Agenda.Dominio.ObjetoDeValor.Genero">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjetoDeValor\PessoaEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Agenda.Dominio.ObjetoDeValor.Relacionamento">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAABAAAgAAAAAAAAAgAAAQAAEIAAAAAEEAAAA=</HashCode>
+      <FileName>ObjetoDeValor\PessoaEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

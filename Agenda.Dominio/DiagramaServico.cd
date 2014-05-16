@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Agenda.Dominio.Servico.PessoaServico">
+    <Position X="1.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAQACAAAAACAAAAAIAAAA=</HashCode>
+      <FileName>Servico\PessoaServico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Dominio.Servico.PessoaContatoServico">
+    <Position X="3.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servico\PessoaContatoServico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

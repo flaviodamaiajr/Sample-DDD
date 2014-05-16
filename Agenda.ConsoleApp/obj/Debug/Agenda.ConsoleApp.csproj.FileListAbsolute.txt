@@ -1,0 +1,57 @@
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe.config
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.pdb
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.dll
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.pdb
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.pdb
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.xml
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.xml
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.xml
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.xml
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.exe
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.pdb
+C:\Users\Flávio Da Maia Jr\Documents\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\MySql.Data.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Desk\obj\Debug\Agenda.ConsoleApp.exe
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.Desk\obj\Debug\Agenda.ConsoleApp.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe.config
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.dll
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.pdb
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.xml
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.csprojResolveAssemblyReference.cache
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.exe
+F:\Backup\Documentos\Visual Studio 2012\Projects\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe.config
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.exe
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.exe
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.ConsoleApp.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.dll
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Dominio.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Agenda.Repositorio.pdb
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\FluentNHibernate.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\Iesi.Collections.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\bin\Debug\NHibernate.Linq.xml
+C:\Users\Flávio\Desktop\Apresentação\Agenda.Dominio\Agenda.ConsoleApp\obj\Debug\Agenda.ConsoleApp.csprojResolveAssemblyReference.cache
